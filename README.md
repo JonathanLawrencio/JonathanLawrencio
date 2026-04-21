@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🚀 About Me<br><br>- 🤓 I’m interested in Sofware Engineering And Full Stack Developer<br><br>- 🎓 Recent Graduate: Computer Science from Binus University.<br><br>- 💻 Professional Experience: Recently completed a one-year internship at PT Uniair Indotama Cargo, building enterprise web solutions and automating logistics systems.</h3>
+<h6 align="left">🚀 About Me<br><br>- 🤓 I’m interested in Sofware Engineering And Full Stack Developer<br><br>- 🎓 Recent Graduate: Computer Science from Binus University.<br><br>- 💻 Professional Experience: Recently completed a one-year internship at PT Uniair Indotama Cargo, building enterprise web solutions and automating logistics systems.</h3>
 
 ###
 
